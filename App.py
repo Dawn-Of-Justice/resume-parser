@@ -18,7 +18,8 @@
         #2.1 create two more folders inside this folder (Logo and Uploaded_Resumes)
         #2.2 create two python files (App.py and Courses.py)
 
-# 3. START YOUR SQL DATABASE
+# 3. START YOUR SQL DATABASE 
+    # Check this link to start your SQL database: https://chatgpt.com/share/670b6c43-27d8-8007-a2d9-827f9b7f31b4
 
 
 # 4. CONTINUE WITH THE FOLLOWING CODE...
